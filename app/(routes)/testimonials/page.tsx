@@ -1,9 +1,7 @@
 "use client";
-
 import Image from "next/image";
 import { Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
-
 import { dataTestimonials } from "@/data";
 import CircleImage from "@/components/circle-image";
 import TransitionPage from "@/components/transition-page";
